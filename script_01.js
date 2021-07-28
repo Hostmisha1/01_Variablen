@@ -30,6 +30,8 @@
 // console.log(familyName); //Ausgabe
 // console.log("Hallo " + firstName + " " + familyName +"!"); //Ausgabe
 
+//JS ist eine untypisierte Sprache! Untyped
+
 
 let test; // Deklaration (Definition)
 test = "Hi"; // string
